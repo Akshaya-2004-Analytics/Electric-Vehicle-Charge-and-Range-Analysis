@@ -1,6 +1,8 @@
 📊 EV Car Analysis Dashboard – Tableau Project
 🔗 Dashboard Link
 https://public.tableau.com/shared/N2SHW922D?:display_count=n&:origin=viz_share_link
+Story Link 
+https://public.tableau.com/shared/KS5KPSKWD?:display_count=n&:origin=viz_share_link
 
 
 📌 Project Overview
